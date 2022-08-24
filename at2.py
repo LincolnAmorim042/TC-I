@@ -1,8 +1,8 @@
 class Poligono:
-    def __init__ (self, numLados):
+    def __init__(self, numLados):
         self.numLados = numLados
 
-    def area (self):
+    def area(self):
         pass # método não implementado ; pass ignora o restante
 
  # subclasse de Poligono
